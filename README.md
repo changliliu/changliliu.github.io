@@ -1,2 +1,2 @@
 # changliliu.github.io
-Changli Liu Notes
+Changli Liu's Notes
